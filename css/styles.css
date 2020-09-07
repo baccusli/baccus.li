@@ -7312,6 +7312,12 @@ h3 {
     .hobby .hobby-item .hobby-item-caption .hobby-item-caption-content {
       font-size: 1.5rem; }
 
+.hobby-item img {
+  display: table;
+  width: 50%;
+  margin: 0 auto;
+}
+
 .hobby-modal .hobby-modal-title {
   font-size: 2.25rem;
   line-height: 2rem; }
